@@ -23,8 +23,8 @@ Il permet aux activistes, modérateur·ices, ou cellules de veille de documenter
 
 2. Clone le projet :
    ```bash
-   git clone https://github.com/votre-utilisateur/redline-report.git
-   cd redline-report
+   git clone https://github.com/PotiteBulle/Redline-Report.git
+   cd Redline-Report
    ```
 
 3. Installe les dépendances :
