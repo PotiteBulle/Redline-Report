@@ -69,7 +69,7 @@ async function run() {
     });
 
     if (res.ok) {
-      console.log('Alerte envoyée auprès d`\ une équipe de moderation.');
+      console.log('Alerte envoyée auprès d`une équipe de moderation.');
     } else {
       console.log('Échec de l’envoi du signalement.');
     }
