@@ -1,7 +1,6 @@
 # Redline-Report
-Redline Report est un outil de signalement automatisé conçu pour lutter contre les contenus dangereux en ligne.
 
-**Redline Report** est un outil de signalement automatisé conçu pour lutter contre les contenus dangereux en ligne (pédocriminalité, grooming, harcèlement…).  
+**Redline Report** est un outil de signalement automatisé conçu pour lutter contre les contenus dangereux en ligne (par exemple).  
 Il permet aux activistes, modérateur·ices, ou cellules de veille de documenter un incident, d’enregistrer le signalement localement, et d’envoyer automatiquement une alerte à un salon Discord via Webhook.
 
 ---
